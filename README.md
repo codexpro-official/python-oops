@@ -2,8 +2,8 @@
 
 ## 📂 Folder Structure
 
+```
 python-oops/
-│
 ├── 01_Encapsulation/
 │   ├── public_member.py
 │   ├── protected_member.py
@@ -28,20 +28,16 @@ python-oops/
 │   └── interface_example.py
 │
 ├── 05_Class_and_Object/
-│   │
 │   ├── class_example.py
 │   ├── object_vs_class.py
 │   ├── constructor.py
-│   │
 │   └── Object_Creation/
-│       │
 │       ├── 01_Normal/
 │       │   ├── simple_object.py
 │       │   ├── multiple_objects.py
 │       │   └── without_constructor.py
 │       │
 │       ├── 02_Pattern/
-│       │   │
 │       │   ├── 01_Creational/
 │       │   │   ├── singleton.py
 │       │   │   ├── factory.py
@@ -71,4 +67,6 @@ python-oops/
 │           └── private_constructor.py
 │
 ├── README.md
-└── requirements.txt   (optional)
+└── requirements.txt
+```
+
